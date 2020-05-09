@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <WebView
+        android:id="@+id/game_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/url_input"
+        app:layout_constraintTop_toBottomOf="@id/url_input"></WebView>
+
+    <Button
+        android:id="@+id/launch"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Load"
+        android:onClick="load"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <!--https://www.reddit.com/r/gamedev/comments/9y9bbf/html5_javascript_canvas_games_on_android_anyone/-->
+    <!--file:///mnt/sdcard/local_web_client/test/snake.html-->
+    <EditText
+        android:id="@+id/url_input"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:imeOptions="actionGo"
+        android:singleLine="true"
+        android:background="@color/cardview_light_background"
+        android:text="file:///android_asset/snake.html"
+        android:textColor="@android:color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/launch"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autofillHints=""
+        android:inputType="textUri"
+        tools:ignore="LabelFor" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
