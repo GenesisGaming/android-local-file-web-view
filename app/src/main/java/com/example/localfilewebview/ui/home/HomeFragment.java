@@ -75,7 +75,7 @@ public class HomeFragment extends Fragment {
 
     private WebView gameView;
 
-    private EditText urlView;
+    protected EditText urlView;
 
     private float downXValue;
     private float downYValue;
@@ -292,13 +292,19 @@ public class HomeFragment extends Fragment {
         return false;
     }
 
-    private void load() {
+    protected void load() {
         //String file = "file://" + Environment.getExternalStorageDirectory().getPath() + "/local_web_client/test/index.html";
         //file = "file:///mnt/sdcard/local_web_client/test/index.html";
         //file = "content://com.android.externalstorage.documents/document/primary%3Alocal_web_client%2Ftest%2Findex.html";
         //file = "https://www.google.com";
         //Log.i(TAG, file);
         //gameView.loadUrl(file);
+        if (urlView.getText().length() == 0) {
+            urlView.setText("file:///android_asset/hello-pwa/index.html" +
+                    "?partner=8c31b93c-24bd-4dfa-aa16-db96c0296b3a" +
+                    "&session=21f1ad49644b424266cb28f2953928be" +
+                    "&mode=real&turbo=true");
+        }
         gameView.loadUrl(urlView.getText().toString());
     }
 }

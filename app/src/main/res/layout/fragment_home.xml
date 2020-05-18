@@ -5,6 +5,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <WebView
+        android:id="@+id/game_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/url_bar"
+        app:layout_constraintTop_toBottomOf="@+id/url_bar">
+
+    </WebView>
+
     <LinearLayout
         android:id="@+id/url_bar"
         android:layout_width="match_parent"
@@ -20,7 +33,7 @@
             android:imeOptions="actionGo"
             android:inputType="textUri"
             android:singleLine="true"
-            android:text="file:///android_asset/snake.html"
+            android:text=""
             android:textColor="@android:color/black"
             tools:ignore="LabelFor" />
 
@@ -32,18 +45,6 @@
             android:layout_weight="0.2"
             android:text="Load" />
     </LinearLayout>
-
-    <WebView
-        android:id="@+id/game_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="40dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/url_bar"
-        app:layout_constraintTop_toBottomOf="@+id/url_bar">
-
-    </WebView>
 
     <!--https://www.reddit.com/r/gamedev/comments/9y9bbf/html5_javascript_canvas_games_on_android_anyone/-->
     <!--file:///mnt/sdcard/local_web_client/test/snake.html-->

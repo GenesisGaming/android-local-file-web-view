@@ -1,0 +1,41 @@
+
+DHBG_Reel.png
+size: 1240,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbol_Background
+  rotate: false
+  xy: 1086, 3
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+Wheel_Box_Reels_Background_Bottom
+  rotate: false
+  xy: 2, 54
+  size: 850, 14
+  orig: 896, 14
+  offset: 23, 0
+  index: -1
+Wheel_Box_Reels_Background_Left
+  rotate: true
+  xy: 2, 2
+  size: 50, 540
+  orig: 73, 540
+  offset: 23, 0
+  index: -1
+Wheel_Box_Reels_Background_Right
+  rotate: true
+  xy: 544, 2
+  size: 50, 540
+  orig: 73, 540
+  offset: 0, 0
+  index: -1
+Wheel_Box_Reels_Background_Top
+  rotate: false
+  xy: 2, 70
+  size: 896, 68
+  orig: 896, 73
+  offset: 0, 0
+  index: -1

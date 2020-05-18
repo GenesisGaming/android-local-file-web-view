@@ -1,0 +1,13 @@
+var originalOnloadHandler = window.onload
+
+window.onload = () => {
+  'use strict';
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker
+             .register('./sw.js');
+  }
+  if (originalOnloadHandler) {
+    originalOnloadHandler();
+  }
+}

@@ -1,0 +1,13 @@
+
+DHBG_Marquee.png
+size: 832,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MsgPanel
+  rotate: false
+  xy: 2, 2
+  size: 825, 71
+  orig: 825, 75
+  offset: 0, 4
+  index: -1

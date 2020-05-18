@@ -1,0 +1,83 @@
+
+ReelAnticipation.png
+size: 1512,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Coin_01
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_02
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_03
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_04
+  rotate: false
+  xy: 158, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_05
+  rotate: false
+  xy: 210, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_06
+  rotate: false
+  xy: 262, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Reel_Anticipation_SFX_01
+  rotate: false
+  xy: 2, 54
+  size: 300, 610
+  orig: 300, 610
+  offset: 0, 0
+  index: -1
+Reel_Anticipation_SFX_02
+  rotate: false
+  xy: 304, 54
+  size: 300, 610
+  orig: 300, 610
+  offset: 0, 0
+  index: -1
+Reel_Anticipation_SFX_03
+  rotate: false
+  xy: 606, 54
+  size: 300, 610
+  orig: 300, 610
+  offset: 0, 0
+  index: -1
+Reel_Anticipation_SFX_04
+  rotate: false
+  xy: 908, 54
+  size: 300, 610
+  orig: 300, 610
+  offset: 0, 0
+  index: -1
+Reel_Anticipation_SFX_05
+  rotate: false
+  xy: 1210, 54
+  size: 300, 610
+  orig: 300, 610
+  offset: 0, 0
+  index: -1

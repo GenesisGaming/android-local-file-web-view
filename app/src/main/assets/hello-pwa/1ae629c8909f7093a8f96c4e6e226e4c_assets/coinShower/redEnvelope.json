@@ -1,0 +1,20 @@
+{"frames": {
+
+"redEnvelopeSprite.png":
+{
+	"frame": {"x":1,"y":1,"w":75,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":93},
+	"sourceSize": {"w":75,"h":93}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "redEnvelope.png",
+	"format": "RGBA8888",
+	"size": {"w":77,"h":95},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:71e6e184504bdfe7b3478ed0508d50d8:03f71d9bc036da61d08fb2c5efc84e33:cedcaedd25850226279f45c975224bc7$"
+}
+}

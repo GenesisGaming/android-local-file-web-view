@@ -1,0 +1,34 @@
+
+Feature Complete.png
+size: 923,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Msg_Panel_Zone
+  rotate: false
+  xy: 0, 14
+  size: 731, 189
+  orig: 731, 189
+  offset: 0, 0
+  index: -1
+TC/jiang
+  rotate: false
+  xy: 733, 0
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+TC/jin
+  rotate: false
+  xy: 820, 2
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+TC/zhong
+  rotate: false
+  xy: 733, 103
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1

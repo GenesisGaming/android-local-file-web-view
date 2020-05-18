@@ -1,0 +1,34 @@
+
+DHBG_Bg.png
+size: 1452,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background_Free
+  rotate: true
+  xy: 2, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+Background_Free_Portrait
+  rotate: false
+  xy: 364, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+Background_Main
+  rotate: true
+  xy: 726, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+Background_Main_Portrait
+  rotate: false
+  xy: 1088, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1

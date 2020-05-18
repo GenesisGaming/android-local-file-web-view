@@ -1,0 +1,335 @@
+
+IntroSplash.png
+size: 1943,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images_scatter/Background
+  rotate: false
+  xy: 1092, 261
+  size: 268, 236
+  orig: 300, 270
+  offset: 16, 21
+  index: -1
+Images_scatter/Left_Coin01
+  rotate: false
+  xy: 820, 101
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin02
+  rotate: false
+  xy: 990, 202
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin03
+  rotate: false
+  xy: 1010, 130
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin04
+  rotate: false
+  xy: 887, 154
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin05
+  rotate: false
+  xy: 331, 1
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin06
+  rotate: false
+  xy: 375, 2
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin07
+  rotate: false
+  xy: 964, 125
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+Images_scatter/Left_Coin08
+  rotate: false
+  xy: 288, 0
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+Images_scatter/Red Packet
+  rotate: false
+  xy: 567, 93
+  size: 201, 255
+  orig: 201, 255
+  offset: 0, 0
+  index: -1
+Images_scatter/Red Packet Glow
+  rotate: false
+  xy: 302, 75
+  size: 263, 273
+  orig: 263, 273
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin01
+  rotate: false
+  xy: 513, 23
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin02
+  rotate: false
+  xy: 938, 161
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin03
+  rotate: false
+  xy: 887, 191
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin04
+  rotate: false
+  xy: 936, 200
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin05
+  rotate: false
+  xy: 1028, 173
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin06
+  rotate: false
+  xy: 981, 168
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Images_scatter/Right_Coin07
+  rotate: false
+  xy: 1032, 205
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Images_scatter/Scroll
+  rotate: false
+  xy: 567, 3
+  size: 291, 88
+  orig: 291, 94
+  offset: 0, 3
+  index: -1
+Images_scatter/Symbol01
+  rotate: false
+  xy: 770, 98
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Images_scatter/Symbol02
+  rotate: false
+  xy: 871, 102
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Images_scatter/Symbol03
+  rotate: false
+  xy: 922, 105
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Images_wild/Background
+  rotate: false
+  xy: 1362, 261
+  size: 268, 236
+  orig: 274, 242
+  offset: 3, 4
+  index: -1
+Images_wild/Body
+  rotate: false
+  xy: 1466, 39
+  size: 282, 220
+  orig: 302, 239
+  offset: 11, 19
+  index: -1
+Images_wild/Frame
+  rotate: false
+  xy: 0, 87
+  size: 300, 261
+  orig: 300, 270
+  offset: 0, 7
+  index: -1
+Images_wild/Gold
+  rotate: false
+  xy: 1192, 3
+  size: 203, 161
+  orig: 203, 161
+  offset: 0, 0
+  index: -1
+Images_wild/Hat
+  rotate: false
+  xy: 770, 145
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+Images_wild/Hat_Sides
+  rotate: false
+  xy: 288, 28
+  size: 223, 45
+  orig: 223, 45
+  offset: 0, 0
+  index: -1
+Images_wild/Head
+  rotate: false
+  xy: 1632, 265
+  size: 223, 232
+  orig: 223, 232
+  offset: 0, 0
+  index: -1
+Images_wild/Ribbon Back
+  rotate: false
+  xy: 0, 22
+  size: 286, 63
+  orig: 302, 63
+  offset: 13, 0
+  index: -1
+Images_wild/Scroll
+  rotate: false
+  xy: 1750, 27
+  size: 123, 236
+  orig: 123, 236
+  offset: 0, 0
+  index: -1
+Images_wild/Square_Frame
+  rotate: false
+  xy: 790, 234
+  size: 300, 263
+  orig: 300, 270
+  offset: 0, 7
+  index: -1
+RedFont/34_CapitalA
+  rotate: false
+  xy: 1036, 26
+  size: 77, 102
+  orig: 128, 128
+  offset: 25, 11
+  index: -1
+RedFont/36_CapitalC
+  rotate: false
+  xy: 1237, 168
+  size: 78, 91
+  orig: 128, 128
+  offset: 26, 22
+  index: -1
+RedFont/37_CapitalD
+  rotate: false
+  xy: 1115, 34
+  size: 75, 98
+  orig: 128, 128
+  offset: 27, 16
+  index: -1
+RedFont/38_CapitalE
+  rotate: false
+  xy: 1394, 166
+  size: 70, 93
+  orig: 128, 128
+  offset: 32, 20
+  index: -1
+RedFont/40_CapitalG
+  rotate: false
+  xy: 950, 4
+  size: 84, 99
+  orig: 128, 128
+  offset: 22, 14
+  index: -1
+RedFont/42_CapitalI
+  rotate: false
+  xy: 1875, 106
+  size: 45, 95
+  orig: 128, 128
+  offset: 45, 18
+  index: -1
+RedFont/45_CapitalL
+  rotate: false
+  xy: 1397, 67
+  size: 65, 97
+  orig: 128, 128
+  offset: 33, 17
+  index: -1
+RedFont/48_CapitalO
+  rotate: false
+  xy: 1857, 403
+  size: 74, 94
+  orig: 128, 128
+  offset: 29, 19
+  index: -1
+RedFont/49_CapitalP
+  rotate: false
+  xy: 1074, 134
+  size: 80, 98
+  orig: 128, 128
+  offset: 24, 15
+  index: -1
+RedFont/50_CapitalR
+  rotate: false
+  xy: 1156, 166
+  size: 79, 93
+  orig: 128, 128
+  offset: 27, 21
+  index: -1
+RedFont/51_CapitalS
+  rotate: false
+  xy: 1875, 203
+  size: 68, 97
+  orig: 128, 128
+  offset: 31, 16
+  index: -1
+RedFont/52_CapitalT
+  rotate: false
+  xy: 1857, 302
+  size: 69, 99
+  orig: 128, 128
+  offset: 32, 15
+  index: -1
+RedFont/53_CapitalU
+  rotate: false
+  xy: 1317, 166
+  size: 75, 93
+  orig: 128, 128
+  offset: 30, 20
+  index: -1
+RedFont/55_CapitalW
+  rotate: false
+  xy: 860, 4
+  size: 88, 95
+  orig: 128, 128
+  offset: 22, 18
+  index: -1
+TriggerFeature_en
+  rotate: false
+  xy: 0, 350
+  size: 788, 147
+  orig: 788, 147
+  offset: 0, 0
+  index: -1

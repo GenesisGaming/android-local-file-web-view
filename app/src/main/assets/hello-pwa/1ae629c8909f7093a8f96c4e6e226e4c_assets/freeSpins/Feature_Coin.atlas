@@ -1,0 +1,125 @@
+
+Feature_Coin.png
+size: 628,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feature_Coin_Shine
+  rotate: false
+  xy: 2, 858
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+GRAND
+  rotate: false
+  xy: 2, 2
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+MAJOR
+  rotate: false
+  xy: 153, 2
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+MINI
+  rotate: false
+  xy: 304, 2
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+MINOR
+  rotate: false
+  xy: 455, 27
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+Symbol_Coin_00
+  rotate: true
+  xy: 2, 624
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_01
+  rotate: false
+  xy: 229, 883
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_02
+  rotate: true
+  xy: 2, 390
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_03
+  rotate: true
+  xy: 2, 156
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_04
+  rotate: true
+  xy: 204, 624
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_05
+  rotate: true
+  xy: 204, 390
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_06
+  rotate: true
+  xy: 204, 156
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_07
+  rotate: true
+  xy: 406, 649
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_08
+  rotate: true
+  xy: 406, 415
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_09
+  rotate: true
+  xy: 406, 181
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Coin_10
+  rotate: true
+  xy: 406, 181
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+Symbol_Highlight
+  rotate: false
+  xy: 463, 923
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

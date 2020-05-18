@@ -1,0 +1,321 @@
+
+SpinsFeature.png
+size: 1832,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images_scatter/Background
+  rotate: false
+  xy: 1066, 135
+  size: 266, 234
+  orig: 300, 270
+  offset: 17, 22
+  index: -1
+Images_scatter/Frame
+  rotate: false
+  xy: 565, 110
+  size: 298, 259
+  orig: 300, 270
+  offset: 1, 8
+  index: -1
+Images_scatter/Left_Coin01
+  rotate: false
+  xy: 1131, 0
+  size: 47, 40
+  orig: 49, 42
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin02
+  rotate: false
+  xy: 1616, 110
+  size: 38, 28
+  orig: 40, 30
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin03
+  rotate: false
+  xy: 1405, 11
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin04
+  rotate: false
+  xy: 1441, 12
+  size: 47, 33
+  orig: 49, 35
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin05
+  rotate: false
+  xy: 1656, 115
+  size: 40, 23
+  orig: 42, 25
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin06
+  rotate: false
+  xy: 1617, 60
+  size: 37, 22
+  orig: 39, 24
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin07
+  rotate: false
+  xy: 1490, 13
+  size: 42, 32
+  orig: 44, 34
+  offset: 1, 1
+  index: -1
+Images_scatter/Left_Coin08
+  rotate: false
+  xy: 1617, 84
+  size: 39, 24
+  orig: 41, 26
+  offset: 1, 1
+  index: -1
+Images_scatter/Red Packet
+  rotate: false
+  xy: 865, 116
+  size: 199, 253
+  orig: 201, 255
+  offset: 1, 1
+  index: -1
+Images_scatter/Red Packet Glow
+  rotate: false
+  xy: 0, 98
+  size: 261, 271
+  orig: 263, 273
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin01
+  rotate: false
+  xy: 1572, 90
+  size: 42, 48
+  orig: 44, 50
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin02
+  rotate: false
+  xy: 1276, 7
+  size: 39, 35
+  orig: 41, 37
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin03
+  rotate: false
+  xy: 1229, 3
+  size: 45, 39
+  orig: 47, 41
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin04
+  rotate: false
+  xy: 1534, 15
+  size: 50, 30
+  orig: 52, 32
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin05
+  rotate: false
+  xy: 1586, 33
+  size: 38, 25
+  orig: 40, 27
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin06
+  rotate: false
+  xy: 1572, 60
+  size: 43, 28
+  orig: 45, 30
+  offset: 1, 1
+  index: -1
+Images_scatter/Right_Coin07
+  rotate: false
+  xy: 1586, 6
+  size: 38, 25
+  orig: 40, 27
+  offset: 1, 1
+  index: -1
+Images_scatter/Scroll
+  rotate: false
+  xy: 1279, 47
+  size: 291, 86
+  orig: 291, 94
+  offset: 0, 4
+  index: -1
+Images_scatter/Square_Frame
+  rotate: false
+  xy: 263, 99
+  size: 300, 270
+  orig: 300, 270
+  offset: 0, 0
+  index: -1
+Images_scatter/Symbol01
+  rotate: false
+  xy: 1357, 2
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+Images_scatter/Symbol02
+  rotate: false
+  xy: 1180, 1
+  size: 47, 39
+  orig: 49, 41
+  offset: 1, 1
+  index: -1
+Images_scatter/Symbol03
+  rotate: false
+  xy: 1317, 0
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+RedFont/02_!
+  rotate: false
+  xy: 934, 22
+  size: 41, 92
+  orig: 128, 128
+  offset: 47, 20
+  index: -1
+RedFont/34_CapitalA
+  rotate: false
+  xy: 738, 8
+  size: 75, 100
+  orig: 128, 128
+  offset: 26, 12
+  index: -1
+RedFont/36_CapitalC
+  rotate: false
+  xy: 1201, 44
+  size: 76, 89
+  orig: 128, 128
+  offset: 27, 23
+  index: -1
+RedFont/37_CapitalD
+  rotate: false
+  xy: 80, 0
+  size: 73, 96
+  orig: 128, 128
+  offset: 28, 17
+  index: -1
+RedFont/38_CapitalE
+  rotate: false
+  xy: 1131, 42
+  size: 68, 91
+  orig: 128, 128
+  offset: 33, 21
+  index: -1
+RedFont/39_CapitalF
+  rotate: false
+  xy: 668, 6
+  size: 68, 102
+  orig: 128, 128
+  offset: 34, 12
+  index: -1
+RedFont/40_CapitalG
+  rotate: false
+  xy: 308, 0
+  size: 82, 97
+  orig: 128, 128
+  offset: 23, 15
+  index: -1
+RedFont/42_CapitalI
+  rotate: false
+  xy: 815, 15
+  size: 43, 93
+  orig: 128, 128
+  offset: 46, 19
+  index: -1
+RedFont/44_CapitalK
+  rotate: false
+  xy: 392, 0
+  size: 72, 97
+  orig: 128, 128
+  offset: 30, 15
+  index: -1
+RedFont/45_CapitalL
+  rotate: false
+  xy: 535, 2
+  size: 63, 95
+  orig: 128, 128
+  offset: 34, 18
+  index: -1
+RedFont/47_CapitalN
+  rotate: false
+  xy: 155, 1
+  size: 83, 95
+  orig: 128, 128
+  offset: 25, 17
+  index: -1
+RedFont/48_CapitalO
+  rotate: false
+  xy: 860, 16
+  size: 72, 92
+  orig: 128, 128
+  offset: 30, 20
+  index: -1
+RedFont/49_CapitalP
+  rotate: false
+  xy: 0, 0
+  size: 78, 96
+  orig: 128, 128
+  offset: 25, 16
+  index: -1
+RedFont/50_CapitalR
+  rotate: false
+  xy: 977, 23
+  size: 77, 91
+  orig: 128, 128
+  offset: 28, 22
+  index: -1
+RedFont/51_CapitalS
+  rotate: false
+  xy: 240, 1
+  size: 66, 95
+  orig: 128, 128
+  offset: 32, 17
+  index: -1
+RedFont/52_CapitalT
+  rotate: false
+  xy: 466, 0
+  size: 67, 97
+  orig: 128, 128
+  offset: 33, 16
+  index: -1
+RedFont/53_CapitalU
+  rotate: false
+  xy: 1056, 23
+  size: 73, 91
+  orig: 128, 128
+  offset: 31, 21
+  index: -1
+RedFont/57_CapitalY
+  rotate: false
+  xy: 600, 4
+  size: 66, 104
+  orig: 128, 128
+  offset: 35, 8
+  index: -1
+YOU’VE WON 12 FREE SPINS
+  rotate: false
+  xy: 1334, 284
+  size: 498, 85
+  orig: 1920, 1080
+  offset: 707, 425
+  index: -1
+YOU’VE WON 12 FREE SPINS WITH DOUBLING WILDS! Comp 1 (00058)
+  rotate: false
+  xy: 1334, 140
+  size: 408, 70
+  orig: 1280, 720
+  offset: 433, 230
+  index: -1
+doubling crowing
+  rotate: false
+  xy: 1334, 212
+  size: 494, 70
+  orig: 494, 70
+  offset: 0, 0
+  index: -1

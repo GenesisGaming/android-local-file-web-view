@@ -13,23 +13,16 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
 import com.example.localfilewebview.R;
+import com.example.localfilewebview.ui.home.HomeFragment;
 
-public class DashboardFragment extends Fragment {
+public class DashboardFragment extends HomeFragment {
 
-    private DashboardViewModel dashboardViewModel;
-
-    public View onCreateView(@NonNull LayoutInflater inflater,
-                             ViewGroup container, Bundle savedInstanceState) {
-        dashboardViewModel =
-                ViewModelProviders.of(this).get(DashboardViewModel.class);
-        View root = inflater.inflate(R.layout.fragment_dashboard, container, false);
-        final TextView textView = root.findViewById(R.id.text_dashboard);
-        dashboardViewModel.getText().observe(this, new Observer<String>() {
-            @Override
-            public void onChanged(@Nullable String s) {
-                textView.setText(s);
-            }
-        });
-        return root;
+    protected void load() {
+        String url = "file:///android_asset/hello-pwa/index.html" +
+                "?partner=8c31b93c-24bd-4dfa-aa16-db96c0296b3a" +
+                "&session=21f1ad49644b424266cb28f2953928be" +
+                "&mode=real&turbo=true";
+        urlView.setText(url);
+        super.load();
     }
 }

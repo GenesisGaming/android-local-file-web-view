@@ -1,0 +1,20 @@
+{"frames": {
+
+"preloaderBackground.jpg":
+{
+	"frame": {"x":1,"y":1,"w":726,"h":1286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":1286},
+	"sourceSize": {"w":726,"h":1286}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "preloaderBackground.png",
+	"format": "RGBA8888",
+	"size": {"w":728,"h":1288},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:87b1d681d08cc6905345cba6c1dd02d0:c9dc41ae9cb4d06fadc8c0c5d8db80fd:dc6097c6f0b41b3b68f28182fa7ab366$"
+}
+}

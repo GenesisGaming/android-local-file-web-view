@@ -1,0 +1,87 @@
+{"frames": {
+
+"symbol_SCATTER_Drop_00.png":
+{
+	"frame": {"x":201,"y":578,"w":153,"h":143},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":101,"w":153,"h":143},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_01.png":
+{
+	"frame": {"x":1,"y":699,"w":198,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":81,"w":198,"h":186},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_02.png":
+{
+	"frame": {"x":191,"y":402,"w":193,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":96,"w":193,"h":174},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_03.png":
+{
+	"frame": {"x":203,"y":1,"w":207,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":101,"w":207,"h":192},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_04.png":
+{
+	"frame": {"x":1,"y":473,"w":224,"h":188},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":101,"w":224,"h":188},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_05.png":
+{
+	"frame": {"x":1,"y":241,"w":230,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":101,"w":230,"h":179},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_06.png":
+{
+	"frame": {"x":1,"y":1,"w":238,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":101,"w":238,"h":200},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_07.png":
+{
+	"frame": {"x":182,"y":241,"w":223,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":101,"w":223,"h":159},
+	"sourceSize": {"w":350,"h":350}
+},
+"symbol_SCATTER_Drop_08.png":
+{
+	"frame": {"x":201,"y":733,"w":153,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":101,"w":153,"h":143},
+	"sourceSize": {"w":350,"h":350}
+}},
+"animations": {
+	"symbol_SCATTER_Drop": ["symbol_SCATTER_Drop_00.png","symbol_SCATTER_Drop_01.png","symbol_SCATTER_Drop_02.png","symbol_SCATTER_Drop_03.png","symbol_SCATTER_Drop_04.png","symbol_SCATTER_Drop_05.png","symbol_SCATTER_Drop_06.png","symbol_SCATTER_Drop_07.png","symbol_SCATTER_Drop_08.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimationSCADrop.png",
+	"format": "RGBA8888",
+	"size": {"w":411,"h":886},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:65283b83be1b3d6791f4506860cdefa0:ebbc39dce9e244fd318ac333785cb98a:c6a3e447dd6aff3ee65a9fa0d6558100$"
+}
+}

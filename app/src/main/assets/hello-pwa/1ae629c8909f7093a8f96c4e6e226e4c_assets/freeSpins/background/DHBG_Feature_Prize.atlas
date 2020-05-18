@@ -1,0 +1,48 @@
+
+DHBG_Feature_Prize.png
+size: 836,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 1004
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 67, 991
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Feature_Prize_Panel_Left
+  rotate: true
+  xy: 2, 2
+  size: 440, 832
+  orig: 440, 832
+  offset: 0, 0
+  index: -1
+Feature_Prize_Panel_Top
+  rotate: false
+  xy: 221, 801
+  size: 520, 238
+  orig: 520, 238
+  offset: 0, 0
+  index: -1
+Portrait_Feature_Prize_Panel
+  rotate: false
+  xy: 2, 444
+  size: 720, 355
+  orig: 720, 355
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 133, 972
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1

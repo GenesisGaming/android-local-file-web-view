@@ -1,0 +1,55 @@
+
+BigWinAnimation.png
+size: 1830,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Msg_Panel_Zone
+  rotate: false
+  xy: 0, 3
+  size: 1023, 265
+  orig: 1023, 265
+  offset: 0, 0
+  index: -1
+big win_sc/big
+  rotate: false
+  xy: 1675, 117
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+big win_sc/chao
+  rotate: false
+  xy: 1361, 106
+  size: 155, 162
+  orig: 155, 162
+  offset: 0, 0
+  index: -1
+big win_sc/gi
+  rotate: false
+  xy: 1025, 120
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+big win_sc/super
+  rotate: false
+  xy: 1518, 107
+  size: 155, 161
+  orig: 155, 161
+  offset: 0, 0
+  index: -1
+big win_sc/win
+  rotate: false
+  xy: 1199, 111
+  size: 160, 157
+  orig: 160, 157
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 0, 0
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

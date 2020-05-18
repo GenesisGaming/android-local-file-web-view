@@ -1,0 +1,41 @@
+
+DHBG_BG_Animation.png
+size: 100,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blossum_Petal_Texture
+  rotate: false
+  xy: 2, 8
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Petal 1
+  rotate: false
+  xy: 42, 7
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Petal 2
+  rotate: true
+  xy: 70, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Petal 3
+  rotate: true
+  xy: 70, 25
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Petal 4
+  rotate: false
+  xy: 42, 23
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

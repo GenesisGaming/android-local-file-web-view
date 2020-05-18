@@ -1,0 +1,97 @@
+
+Feature_Win_bonus.png
+size: 985,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feature_Win_Panel
+  rotate: false
+  xy: 0, 254
+  size: 735, 297
+  orig: 735, 297
+  offset: 0, 0
+  index: -1
+GRAND
+  rotate: false
+  xy: 251, 0
+  size: 246, 252
+  orig: 249, 253
+  offset: 2, 1
+  index: -1
+MAJOR
+  rotate: false
+  xy: 499, 7
+  size: 245, 245
+  orig: 249, 253
+  offset: 2, 6
+  index: -1
+MINI
+  rotate: false
+  xy: 0, 2
+  size: 249, 250
+  orig: 249, 253
+  offset: 0, 1
+  index: -1
+MINOR
+  rotate: false
+  xy: 737, 301
+  size: 248, 250
+  orig: 249, 253
+  offset: 0, 0
+  index: -1
+tc/da
+  rotate: false
+  xy: 746, 96
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+tc/er
+  rotate: false
+  xy: 746, 163
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+tc/giang
+  rotate: false
+  xy: 816, 160
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+tc/giu
+  rotate: false
+  xy: 816, 95
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+tc/li
+  rotate: false
+  xy: 746, 232
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+tc/mi
+  rotate: false
+  xy: 817, 232
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+tc/ni
+  rotate: false
+  xy: 887, 233
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+tc/shao
+  rotate: false
+  xy: 746, 32
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,6874 @@
+{
+	"skeleton": {
+		"hash": "jI7jR2Qrd5Mr3FpgtkJE+DFBFDw",
+		"spine": "3.7.94",
+		"width": 320,
+		"height": 388.01,
+		"images": "./Images/",
+		"audio": "E:/GamesLabSlots/GameDevelopment/Games/Da_Hong_Bao_Gold/GEN-H5-EN/Animations/Coin_effects/Spine_Content"
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "Anticipation_bone01",
+			"parent": "root"
+		},
+		{
+			"name": "Particle_Coin_Bone_0",
+			"parent": "Anticipation_bone01",
+			"rotation": -129.29,
+			"x": 26.53,
+			"y": -197.17,
+			"scaleX": 0.745,
+			"scaleY": 0.745
+		},
+		{
+			"name": "Particle_Coin_Bone_1",
+			"parent": "Anticipation_bone01",
+			"y": -195.74
+		},
+		{
+			"name": "Particle_Coin_Bone_4",
+			"parent": "Anticipation_bone01",
+			"rotation": -147.75,
+			"x": -18.64,
+			"y": -187.14,
+			"scaleX": 0.998,
+			"scaleY": 0.998
+		},
+		{
+			"name": "Particle_Coin_Bone_5",
+			"parent": "Anticipation_bone01",
+			"rotation": 151.49,
+			"x": -0.72,
+			"y": -171.36,
+			"scaleX": 0.682,
+			"scaleY": 0.682
+		},
+		{
+			"name": "Particle_Coin_Bone_6",
+			"parent": "Anticipation_bone01",
+			"rotation": 44.46,
+			"x": 7.89,
+			"y": -182.83,
+			"scaleX": 0.971,
+			"scaleY": 0.971
+		},
+		{
+			"name": "Particle_Coin_Bone_9",
+			"parent": "Anticipation_bone01",
+			"rotation": 60.31,
+			"x": 20.79,
+			"y": -200.76,
+			"scaleX": 0.673,
+			"scaleY": 0.673
+		},
+		{
+			"name": "Particle_Coin_Bone_10",
+			"parent": "Anticipation_bone01",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_11",
+			"parent": "Anticipation_bone01",
+			"rotation": 77.89,
+			"x": 2.87,
+			"y": -203.63,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_21",
+			"parent": "Anticipation_bone01",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -181.99,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_22",
+			"parent": "Anticipation_bone01",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_32",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_43",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_44",
+			"parent": "root",
+			"rotation": 60.31,
+			"x": 20.79,
+			"y": -200.76,
+			"scaleX": 0.673,
+			"scaleY": 0.673
+		},
+		{
+			"name": "Particle_Coin_Bone_47",
+			"parent": "root",
+			"rotation": 44.46,
+			"x": 7.89,
+			"y": -182.83,
+			"scaleX": 0.971,
+			"scaleY": 0.971
+		},
+		{
+			"name": "Particle_Coin_Bone_52",
+			"parent": "root",
+			"y": -195.74
+		},
+		{
+			"name": "Particle_Coin_Bone_55",
+			"parent": "root",
+			"y": -195.74
+		},
+		{
+			"name": "Particle_Coin_Bone_61",
+			"parent": "root",
+			"rotation": 97.39,
+			"x": 7.89,
+			"y": -201.48,
+			"scaleX": 0.971,
+			"scaleY": 0.971
+		},
+		{
+			"name": "Particle_Coin_Bone_63",
+			"parent": "root",
+			"rotation": 60.31,
+			"x": 20.79,
+			"y": -200.76,
+			"scaleX": 0.673,
+			"scaleY": 0.673
+		},
+		{
+			"name": "Particle_Coin_Bone_64",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_72",
+			"parent": "root",
+			"rotation": 77.89,
+			"x": 2.87,
+			"y": -203.63,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_73",
+			"parent": "root",
+			"rotation": 77.89,
+			"x": 2.87,
+			"y": -203.63,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_74",
+			"parent": "root",
+			"rotation": 77.89,
+			"x": 2.87,
+			"y": -203.63,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_75",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_76",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_77",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_78",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_79",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_80",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_81",
+			"parent": "root",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Anticipation_bone02",
+			"parent": "root"
+		},
+		{
+			"name": "Particle_Coin_Bone_26",
+			"parent": "Anticipation_bone02",
+			"rotation": -129.29,
+			"x": 26.53,
+			"y": -197.17,
+			"scaleX": 0.745,
+			"scaleY": 0.745
+		},
+		{
+			"name": "Particle_Coin_Bone_42",
+			"parent": "Anticipation_bone02",
+			"y": -195.74
+		},
+		{
+			"name": "Particle_Coin_Bone_60",
+			"parent": "Anticipation_bone02",
+			"rotation": -147.75,
+			"x": -18.64,
+			"y": -187.14,
+			"scaleX": 0.998,
+			"scaleY": 0.998
+		},
+		{
+			"name": "Particle_Coin_Bone_82",
+			"parent": "Anticipation_bone02",
+			"rotation": 151.49,
+			"x": -0.72,
+			"y": -171.36,
+			"scaleX": 0.682,
+			"scaleY": 0.682
+		},
+		{
+			"name": "Particle_Coin_Bone_83",
+			"parent": "Anticipation_bone02",
+			"rotation": 44.46,
+			"x": 7.89,
+			"y": -182.83,
+			"scaleX": 0.971,
+			"scaleY": 0.971
+		},
+		{
+			"name": "Particle_Coin_Bone_86",
+			"parent": "Anticipation_bone02",
+			"rotation": 60.31,
+			"x": 20.79,
+			"y": -200.76,
+			"scaleX": 0.673,
+			"scaleY": 0.673
+		},
+		{
+			"name": "Particle_Coin_Bone_87",
+			"parent": "Anticipation_bone02",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_88",
+			"parent": "Anticipation_bone02",
+			"rotation": 77.89,
+			"x": 2.87,
+			"y": -203.63,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_98",
+			"parent": "Anticipation_bone02",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -181.99,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Particle_Coin_Bone_99",
+			"parent": "Anticipation_bone02",
+			"rotation": 128.06,
+			"x": -12.91,
+			"y": -183.55,
+			"scaleX": 0.913,
+			"scaleY": 0.913
+		},
+		{
+			"name": "Highlight_bone",
+			"parent": "root"
+		},
+		{
+			"name": "x_bone",
+			"parent": "root",
+			"x": -50.65
+		},
+		{
+			"name": "2_bone",
+			"parent": "root",
+			"x": 7.24
+		}
+	],
+	"slots": [
+		{
+			"name": "Particle_Coin_01",
+			"bone": "Particle_Coin_Bone_0",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_26",
+			"bone": "Particle_Coin_Bone_26",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_4",
+			"bone": "Particle_Coin_Bone_4",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_60",
+			"bone": "Particle_Coin_Bone_60",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_5",
+			"bone": "Particle_Coin_Bone_5",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_82",
+			"bone": "Particle_Coin_Bone_82",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_6",
+			"bone": "Particle_Coin_Bone_6",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_83",
+			"bone": "Particle_Coin_Bone_83",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_47",
+			"bone": "Particle_Coin_Bone_47",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_61",
+			"bone": "Particle_Coin_Bone_61",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_9",
+			"bone": "Particle_Coin_Bone_9",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_86",
+			"bone": "Particle_Coin_Bone_86",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_44",
+			"bone": "Particle_Coin_Bone_44",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_63",
+			"bone": "Particle_Coin_Bone_63",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_10",
+			"bone": "Particle_Coin_Bone_10",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_87",
+			"bone": "Particle_Coin_Bone_87",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_43",
+			"bone": "Particle_Coin_Bone_43",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_64",
+			"bone": "Particle_Coin_Bone_64",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_21",
+			"bone": "Particle_Coin_Bone_21",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_98",
+			"bone": "Particle_Coin_Bone_98",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_32",
+			"bone": "Particle_Coin_Bone_32",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_75",
+			"bone": "Particle_Coin_Bone_75",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_22",
+			"bone": "Particle_Coin_Bone_22",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_99",
+			"bone": "Particle_Coin_Bone_99",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_76",
+			"bone": "Particle_Coin_Bone_76",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_77",
+			"bone": "Particle_Coin_Bone_77",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_78",
+			"bone": "Particle_Coin_Bone_78",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_79",
+			"bone": "Particle_Coin_Bone_79",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_81",
+			"bone": "Particle_Coin_Bone_81",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_80",
+			"bone": "Particle_Coin_Bone_80",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_11",
+			"bone": "Particle_Coin_Bone_11",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_88",
+			"bone": "Particle_Coin_Bone_88",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_72",
+			"bone": "Particle_Coin_Bone_72",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_73",
+			"bone": "Particle_Coin_Bone_73",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_74",
+			"bone": "Particle_Coin_Bone_74",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_1",
+			"bone": "Particle_Coin_Bone_1",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_42",
+			"bone": "Particle_Coin_Bone_42",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_52",
+			"bone": "Particle_Coin_Bone_52",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Particle_Coin_55",
+			"bone": "Particle_Coin_Bone_55",
+			"attachment": "Particle_Coin_06"
+		},
+		{
+			"name": "Symbol_Highlight",
+			"bone": "Highlight_bone",
+			"attachment": "Symbol_Highlight"
+		},
+		{
+			"name": "2",
+			"bone": "2_bone",
+			"attachment": "2"
+		},
+		{
+			"name": "x",
+			"bone": "x_bone",
+			"attachment": "x"
+		}
+	],
+	"skins": {
+		"default": {
+			"2": {
+				"2": {
+					"x": 16,
+					"width": 52,
+					"height": 84
+				}
+			},
+			"Particle_Coin_01": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_1": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_10": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_11": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_21": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_22": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_26": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_32": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_4": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_42": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_43": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_44": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_47": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_5": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_52": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_55": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_6": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_60": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_61": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_63": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_64": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_72": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_73": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_74": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_75": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_76": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_77": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_78": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_79": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_80": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_81": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_82": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_83": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_86": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_87": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_88": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_9": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_98": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Particle_Coin_99": {
+				"Particle_Coin_01": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_02": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_03": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_04": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_05": {
+					"width": 50,
+					"height": 50
+				},
+				"Particle_Coin_06": {
+					"scaleX": 0.9,
+					"scaleY": 0.9,
+					"width": 50,
+					"height": 50
+				}
+			},
+			"Symbol_Highlight": {
+				"Symbol_Highlight": {
+					"width": 320,
+					"height": 320
+				}
+			},
+			"x": {
+				"x": {
+					"x": 19,
+					"y": 0.5,
+					"width": 41,
+					"height": 58
+				}
+			}
+		}
+	},
+	"animations": {
+		"Wild_Multiplier": {
+			"slots": {
+				"Particle_Coin_1": {
+					"color": [
+						{
+							"time": 0.3,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_01": {
+					"color": [
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_4": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_5": {
+					"color": [
+						{
+							"time": 0.2,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_01"
+						}
+					]
+				},
+				"Particle_Coin_6": {
+					"color": [
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_9": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_10": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_11": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_21": {
+					"color": [
+						{
+							"time": 0.1333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_22": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_26": {
+					"color": [
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_32": {
+					"color": [
+						{
+							"time": 0.1333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_04"
+						}
+					]
+				},
+				"Particle_Coin_42": {
+					"color": [
+						{
+							"time": 0.3,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_43": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_01"
+						}
+					]
+				},
+				"Particle_Coin_44": {
+					"color": [
+						{
+							"time": 0.1333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_47": {
+					"color": [
+						{
+							"time": 0.2,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_52": {
+					"color": [
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_01"
+						}
+					]
+				},
+				"Particle_Coin_55": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_60": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_61": {
+					"color": [
+						{
+							"time": 0.1,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_63": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_64": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_72": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_73": {
+					"color": [
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_04"
+						}
+					]
+				},
+				"Particle_Coin_74": {
+					"color": [
+						{
+							"time": 0.2,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_75": {
+					"color": [
+						{
+							"time": 0.1,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_76": {
+					"color": [
+						{
+							"time": 0.1333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_01"
+						}
+					]
+				},
+				"Particle_Coin_77": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_78": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_79": {
+					"color": [
+						{
+							"time": 0.2,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_80": {
+					"color": [
+						{
+							"time": 0.1333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_81": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_82": {
+					"color": [
+						{
+							"time": 0.2,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_01"
+						}
+					]
+				},
+				"Particle_Coin_83": {
+					"color": [
+						{
+							"time": 0.1667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.2333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Particle_Coin_86": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_02"
+						}
+					]
+				},
+				"Particle_Coin_87": {
+					"color": [
+						{
+							"time": 0.2333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_88": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3333,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_05"
+						}
+					]
+				},
+				"Particle_Coin_98": {
+					"color": [
+						{
+							"time": 0.1333,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_03"
+						}
+					]
+				},
+				"Particle_Coin_99": {
+					"color": [
+						{
+							"time": 0.2667,
+							"color": "ffffffff"
+						},
+						{
+							"time": 0.3,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.0333,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.0667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.1,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.1333,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.1667,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.2,
+							"name": "Particle_Coin_02"
+						},
+						{
+							"time": 0.2333,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.2667,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.3,
+							"name": "Particle_Coin_06"
+						},
+						{
+							"time": 0.3333,
+							"name": "Particle_Coin_01"
+						},
+						{
+							"time": 0.3667,
+							"name": "Particle_Coin_03"
+						},
+						{
+							"time": 0.4,
+							"name": "Particle_Coin_04"
+						},
+						{
+							"time": 0.4333,
+							"name": "Particle_Coin_05"
+						},
+						{
+							"time": 0.4667,
+							"name": "Particle_Coin_06"
+						}
+					]
+				},
+				"Symbol_Highlight": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff31"
+						},
+						{
+							"time": 0.5,
+							"color": "ffffffff"
+						}
+					]
+				}
+			},
+			"bones": {
+				"Particle_Coin_Bone_1": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 21.84
+						},
+						{
+							"time": 0.1,
+							"angle": -82.66
+						},
+						{
+							"time": 0.2,
+							"angle": -120.13
+						},
+						{
+							"time": 0.3333,
+							"angle": 75.12
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 33.22,
+							"y": 230.94
+						},
+						{
+							"time": 0.1,
+							"x": 57.77,
+							"y": 243.9
+						},
+						{
+							"time": 0.2,
+							"x": 71.3,
+							"y": 197.57
+						},
+						{
+							"time": 0.3333,
+							"x": 82.74,
+							"y": 110.73
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.16,
+							"y": 0.16
+						},
+						{
+							"time": 0.1,
+							"x": 0.266,
+							"y": 0.266
+						},
+						{
+							"time": 0.2,
+							"x": 0.279,
+							"y": 0.279
+						}
+					]
+				},
+				"Particle_Coin_Bone_6": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": -29.13
+						},
+						{
+							"time": 0.2,
+							"angle": -107.22
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 15.12,
+							"y": 229.33
+						},
+						{
+							"time": 0.0667,
+							"x": 32.87,
+							"y": 243.54
+						},
+						{
+							"time": 0.1333,
+							"x": 55.2,
+							"y": 253
+						},
+						{
+							"time": 0.2,
+							"x": 74.4,
+							"y": 239.58
+						},
+						{
+							"time": 0.2333,
+							"x": 90.52,
+							"y": 210.46
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.116,
+							"y": 0.116
+						},
+						{
+							"time": 0.0667,
+							"x": 0.195,
+							"y": 0.195
+						},
+						{
+							"time": 0.2,
+							"x": 0.206,
+							"y": 0.206
+						}
+					]
+				},
+				"Particle_Coin_Bone_74": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0.2
+						},
+						{
+							"time": 0.0667,
+							"angle": -16.6
+						},
+						{
+							"time": 0.1667,
+							"angle": -70.98
+						},
+						{
+							"time": 0.2667,
+							"angle": -124.22
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 2.98,
+							"y": 258.79
+						},
+						{
+							"time": 0.0667,
+							"x": 10.48,
+							"y": 280.28
+						},
+						{
+							"time": 0.1667,
+							"x": 28.53,
+							"y": 236
+						},
+						{
+							"time": 0.2667,
+							"x": 31.13,
+							"y": 163.72
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.12,
+							"y": 0.12
+						},
+						{
+							"time": 0.0667,
+							"x": 0.201,
+							"y": 0.201
+						},
+						{
+							"time": 0.1667,
+							"x": 0.211,
+							"y": 0.211
+						}
+					]
+				},
+				"Particle_Coin_Bone_4": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 11.4
+						},
+						{
+							"time": 0.2667,
+							"angle": 119.57
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -16.39,
+							"y": 179.93
+						},
+						{
+							"time": 0.1,
+							"x": -34.12,
+							"y": 167.99
+						},
+						{
+							"time": 0.2,
+							"x": -58.78,
+							"y": 112.62
+						},
+						{
+							"time": 0.2667,
+							"x": -63.05,
+							"y": 73.85
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.122,
+							"y": 0.122
+						},
+						{
+							"time": 0.1,
+							"x": 0.205,
+							"y": 0.205
+						},
+						{
+							"time": 0.2667,
+							"x": 0.216,
+							"y": 0.216
+						}
+					]
+				},
+				"Particle_Coin_Bone_10": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 14.18
+						},
+						{
+							"time": 0.2333,
+							"angle": 61.14
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.68,
+							"y": 225.75
+						},
+						{
+							"time": 0.1,
+							"x": -28.19,
+							"y": 240.75
+						},
+						{
+							"time": 0.1333,
+							"x": -53.52,
+							"y": 230.08
+						},
+						{
+							"time": 0.2,
+							"x": -65.02,
+							"y": 206.38
+						},
+						{
+							"time": 0.2333,
+							"x": -69.49,
+							"y": 181.45
+						},
+						{
+							"time": 0.3,
+							"x": -73.13,
+							"y": 155.97
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.18,
+							"y": 0.18
+						},
+						{
+							"time": 0.1,
+							"x": 0.299,
+							"y": 0.299
+						},
+						{
+							"time": 0.2333,
+							"x": 0.315,
+							"y": 0.315
+						}
+					]
+				},
+				"Particle_Coin_Bone_47": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -49.55
+						},
+						{
+							"time": 0.1,
+							"angle": -133.3
+						},
+						{
+							"time": 0.2,
+							"angle": 148.58
+						},
+						{
+							"time": 0.2667,
+							"angle": 84.79
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 40.28,
+							"y": 190.78
+						},
+						{
+							"time": 0.1,
+							"x": 66.34,
+							"y": 182.98
+						},
+						{
+							"time": 0.1333,
+							"x": 86.2,
+							"y": 162.16
+						},
+						{
+							"time": 0.2,
+							"x": 100.86,
+							"y": 105.98
+						},
+						{
+							"time": 0.2667,
+							"x": 105.33,
+							"y": 79.41
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.155,
+							"y": 0.155
+						},
+						{
+							"time": 0.1,
+							"x": 0.257,
+							"y": 0.257
+						},
+						{
+							"time": 0.2,
+							"x": 0.271,
+							"y": 0.271
+						}
+					]
+				},
+				"Particle_Coin_Bone_52": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -25.29
+						},
+						{
+							"time": 0.1,
+							"angle": -72.87
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 50.32,
+							"y": 173.77
+						},
+						{
+							"time": 0.1,
+							"x": 68.86,
+							"y": 159.3
+						},
+						{
+							"time": 0.1333,
+							"x": 86.34,
+							"y": 124.81
+						},
+						{
+							"time": 0.2,
+							"x": 94.5,
+							"y": 80.49
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.182,
+							"y": 0.182
+						},
+						{
+							"time": 0.1,
+							"x": 0.302,
+							"y": 0.302
+						},
+						{
+							"time": 0.2,
+							"x": 0.317,
+							"y": 0.317
+						}
+					]
+				},
+				"Particle_Coin_Bone_55": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": 19.23
+						},
+						{
+							"time": 0.1667,
+							"angle": 60.9
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -40.4,
+							"y": 212.63
+						},
+						{
+							"time": 0.0667,
+							"x": -56.28,
+							"y": 212.63
+						},
+						{
+							"time": 0.1667,
+							"x": -86.43,
+							"y": 185.59
+						},
+						{
+							"time": 0.2667,
+							"x": -110.87,
+							"y": 141.39
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.142,
+							"y": 0.142
+						},
+						{
+							"time": 0.0667,
+							"x": 0.236,
+							"y": 0.236
+						},
+						{
+							"time": 0.1667,
+							"x": 0.249,
+							"y": 0.249
+						}
+					]
+				},
+				"Particle_Coin_Bone_81": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 33.94
+						},
+						{
+							"time": 0.2667,
+							"angle": 175.93
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -27.84,
+							"y": 225.06
+						},
+						{
+							"time": 0.1,
+							"x": -52.39,
+							"y": 238.36
+						},
+						{
+							"time": 0.1333,
+							"x": -73.79,
+							"y": 236.01
+						},
+						{
+							"time": 0.2,
+							"x": -92.07,
+							"y": 212.85
+						},
+						{
+							"time": 0.2667,
+							"x": -102.99,
+							"y": 181.65
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.14,
+							"y": 0.14
+						},
+						{
+							"time": 0.1,
+							"x": 0.233,
+							"y": 0.233
+						},
+						{
+							"time": 0.2,
+							"x": 0.246,
+							"y": 0.246
+						}
+					]
+				},
+				"Particle_Coin_Bone_80": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -24.79
+						},
+						{
+							"time": 0.2,
+							"angle": -52.85
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 45.01,
+							"y": 142.03
+						},
+						{
+							"time": 0.1,
+							"x": 61.08,
+							"y": 121.32
+						},
+						{
+							"time": 0.2,
+							"x": 62.4,
+							"y": 53.37
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.126,
+							"y": 0.126
+						},
+						{
+							"time": 0.1,
+							"x": 0.21,
+							"y": 0.21
+						},
+						{
+							"time": 0.2,
+							"x": 0.222,
+							"y": 0.222
+						}
+					]
+				},
+				"Particle_Coin_Bone_9": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -14.82
+						},
+						{
+							"time": 0.2,
+							"angle": -65.11
+						},
+						{
+							"time": 0.3333,
+							"angle": 162.06
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 29.86,
+							"y": 232.51
+						},
+						{
+							"time": 0.1,
+							"x": 48.95,
+							"y": 232.85
+						},
+						{
+							"time": 0.2,
+							"x": 72.32,
+							"y": 186.93
+						},
+						{
+							"time": 0.3333,
+							"x": 88.44,
+							"y": 116.21
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.177,
+							"y": 0.177
+						},
+						{
+							"time": 0.1,
+							"x": 0.296,
+							"y": 0.296
+						},
+						{
+							"time": 0.2,
+							"x": 0.313,
+							"y": 0.313
+						}
+					]
+				},
+				"Particle_Coin_Bone_44": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 91.2
+						},
+						{
+							"time": 0.2,
+							"angle": 110.47
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -59.44,
+							"y": 164.05
+						},
+						{
+							"time": 0.1,
+							"x": -70.35,
+							"y": 139.84
+						},
+						{
+							"time": 0.1333,
+							"x": -83.52,
+							"y": 103.14
+						},
+						{
+							"time": 0.2,
+							"x": -82.65,
+							"y": 66.45
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.324,
+							"y": 0.324
+						},
+						{
+							"time": 0.1,
+							"x": 0.538,
+							"y": 0.538
+						},
+						{
+							"time": 0.2,
+							"x": 0.567,
+							"y": 0.567
+						}
+					]
+				},
+				"Particle_Coin_Bone_79": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -16.09
+						},
+						{
+							"time": 0.2,
+							"angle": -57.97
+						},
+						{
+							"time": 0.3,
+							"angle": -114.43
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 43.74,
+							"y": 160.34
+						},
+						{
+							"time": 0.1,
+							"x": 62.84,
+							"y": 156.59
+						},
+						{
+							"time": 0.1667,
+							"x": 76.43,
+							"y": 119.2
+						},
+						{
+							"time": 0.2,
+							"x": 77.53,
+							"y": 94.27
+						},
+						{
+							"time": 0.3,
+							"x": 79.41,
+							"y": 64.32
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.153,
+							"y": 0.153
+						},
+						{
+							"time": 0.1,
+							"x": 0.255,
+							"y": 0.255
+						},
+						{
+							"time": 0.2,
+							"x": 0.268,
+							"y": 0.268
+						}
+					]
+				},
+				"Particle_Coin_Bone_78": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 16.61
+						},
+						{
+							"time": 0.1,
+							"angle": 42.55
+						},
+						{
+							"time": 0.3,
+							"angle": -129.19
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -38.85,
+							"y": 178.32
+						},
+						{
+							"time": 0.1,
+							"x": -63.06,
+							"y": 165.02
+						},
+						{
+							"time": 0.2,
+							"x": -86.43,
+							"y": 116.23
+						},
+						{
+							"time": 0.3,
+							"x": -95.27,
+							"y": 71.51
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.173,
+							"y": 0.173
+						},
+						{
+							"time": 0.1,
+							"x": 0.287,
+							"y": 0.287
+						},
+						{
+							"time": 0.2,
+							"x": 0.302,
+							"y": 0.302
+						}
+					]
+				},
+				"Particle_Coin_Bone_77": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -5.11
+						},
+						{
+							"time": 0.1,
+							"angle": 0.74
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -0.15,
+							"y": 239.19
+						},
+						{
+							"time": 0.1,
+							"x": -18.22,
+							"y": 256.24
+						},
+						{
+							"time": 0.1333,
+							"x": -29.57,
+							"y": 234.05
+						},
+						{
+							"time": 0.2667,
+							"x": -35.29,
+							"y": 187.77
+						},
+						{
+							"time": 0.3,
+							"x": -39.97,
+							"y": 155.53
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.158,
+							"y": 0.158
+						},
+						{
+							"time": 0.1,
+							"x": 0.263,
+							"y": 0.263
+						},
+						{
+							"time": 0.1333,
+							"x": 0.277,
+							"y": 0.277
+						}
+					]
+				},
+				"Particle_Coin_Bone_76": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 24.99
+						},
+						{
+							"time": 0.1,
+							"angle": 42
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.25,
+							"y": 142.91
+						},
+						{
+							"time": 0.1,
+							"x": -11.05,
+							"y": 130.98
+						},
+						{
+							"time": 0.2,
+							"x": -20.48,
+							"y": 46.52
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.174,
+							"y": 0.174
+						},
+						{
+							"time": 0.1,
+							"x": 0.288,
+							"y": 0.288
+						},
+						{
+							"time": 0.2,
+							"x": 0.303,
+							"y": 0.303
+						}
+					]
+				},
+				"Particle_Coin_Bone_75": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.2,
+							"angle": -27.14
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 30.89,
+							"y": 131.38
+						},
+						{
+							"time": 0.1,
+							"x": 40.09,
+							"y": 111.26
+						},
+						{
+							"time": 0.2,
+							"x": 44.19,
+							"y": 35.56
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.196,
+							"y": 0.196
+						},
+						{
+							"time": 0.1,
+							"x": 0.325,
+							"y": 0.325
+						},
+						{
+							"time": 0.2,
+							"x": 0.341,
+							"y": 0.341
+						}
+					]
+				},
+				"Particle_Coin_Bone_63": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.3,
+							"angle": -160.17
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 38.02,
+							"y": 218.51
+						},
+						{
+							"time": 0.1,
+							"x": 58.48,
+							"y": 223.28
+						},
+						{
+							"time": 0.2,
+							"x": 86.77,
+							"y": 147.43
+						},
+						{
+							"time": 0.3,
+							"x": 88.85,
+							"y": 56.95
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.23,
+							"y": 0.23
+						},
+						{
+							"time": 0.1,
+							"x": 0.383,
+							"y": 0.383
+						},
+						{
+							"time": 0.2,
+							"x": 0.402,
+							"y": 0.402
+						}
+					]
+				},
+				"Particle_Coin_Bone_0": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -103.96
+						},
+						{
+							"time": 0.2,
+							"angle": 140.6
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 31.45,
+							"y": 188.27
+						},
+						{
+							"time": 0.1,
+							"x": 51.01,
+							"y": 185.87
+						},
+						{
+							"time": 0.2,
+							"x": 84.37,
+							"y": 74.56
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.242,
+							"y": 0.242
+						},
+						{
+							"time": 0.1,
+							"x": 0.402,
+							"y": 0.402
+						},
+						{
+							"time": 0.2,
+							"x": 0.423,
+							"y": 0.423
+						}
+					]
+				},
+				"Particle_Coin_Bone_21": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -15.67
+						},
+						{
+							"time": 0.1,
+							"angle": -98.21
+						},
+						{
+							"time": 0.2,
+							"angle": -63.17
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 15.67,
+							"y": 143.91
+						},
+						{
+							"time": 0.1,
+							"x": 21.46,
+							"y": 125.83
+						},
+						{
+							"time": 0.2,
+							"x": 27.75,
+							"y": 55.87
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.197,
+							"y": 0.197
+						},
+						{
+							"time": 0.1,
+							"x": 0.328,
+							"y": 0.328
+						},
+						{
+							"time": 0.2,
+							"x": 0.344,
+							"y": 0.344
+						}
+					]
+				},
+				"Particle_Coin_Bone_73": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": 8.02
+						},
+						{
+							"time": 0.2,
+							"angle": 95.64
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -46.43,
+							"y": 181.5
+						},
+						{
+							"time": 0.1,
+							"x": -66.21,
+							"y": 165.47
+						},
+						{
+							"time": 0.2,
+							"x": -86.3,
+							"y": 94.54
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.15,
+							"y": 0.15
+						},
+						{
+							"time": 0.1,
+							"x": 0.248,
+							"y": 0.248
+						},
+						{
+							"time": 0.2,
+							"x": 0.262,
+							"y": 0.262
+						}
+					]
+				},
+				"Particle_Coin_Bone_64": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": -75.89
+						},
+						{
+							"time": 0.2667,
+							"angle": 127.36
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 30.76,
+							"y": 243.45
+						},
+						{
+							"time": 0.0667,
+							"x": 44.4,
+							"y": 259.47
+						},
+						{
+							"time": 0.1,
+							"x": 63.38,
+							"y": 253.71
+						},
+						{
+							"time": 0.1667,
+							"x": 83.54,
+							"y": 228.17
+						},
+						{
+							"time": 0.2333,
+							"x": 99.14,
+							"y": 188.13
+						},
+						{
+							"time": 0.2667,
+							"x": 101.22,
+							"y": 169.41
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.132,
+							"y": 0.132
+						},
+						{
+							"time": 0.0667,
+							"x": 0.222,
+							"y": 0.222
+						},
+						{
+							"time": 0.1667,
+							"x": 0.234,
+							"y": 0.234
+						}
+					]
+				},
+				"Particle_Coin_Bone_72": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 23.02
+						},
+						{
+							"time": 0.2,
+							"angle": 93.49
+						},
+						{
+							"time": 0.3,
+							"angle": -153.14
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -4.07,
+							"y": 248.15
+						},
+						{
+							"time": 0.1,
+							"x": -10.55,
+							"y": 271.34
+						},
+						{
+							"time": 0.2,
+							"x": -13.83,
+							"y": 224.37
+						},
+						{
+							"time": 0.3,
+							"x": -13.83,
+							"y": 171.33
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.152,
+							"y": 0.152
+						},
+						{
+							"time": 0.1,
+							"x": 0.253,
+							"y": 0.253
+						},
+						{
+							"time": 0.2,
+							"x": 0.267,
+							"y": 0.267
+						}
+					]
+				},
+				"Particle_Coin_Bone_5": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": 27.21
+						},
+						{
+							"time": 0.2667,
+							"angle": 65.7
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -51.58,
+							"y": 196.95
+						},
+						{
+							"time": 0.0667,
+							"x": -74.42,
+							"y": 191.5
+						},
+						{
+							"time": 0.1667,
+							"x": -98.39,
+							"y": 156.36
+						},
+						{
+							"time": 0.2667,
+							"x": -108.79,
+							"y": 109.04
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.227,
+							"y": 0.227
+						},
+						{
+							"time": 0.0667,
+							"x": 0.377,
+							"y": 0.377
+						},
+						{
+							"time": 0.1667,
+							"x": 0.396,
+							"y": 0.396
+						}
+					]
+				},
+				"Particle_Coin_Bone_43": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 15.18
+						},
+						{
+							"time": 0.2,
+							"angle": 75.52
+						},
+						{
+							"time": 0.3333,
+							"angle": -154.87
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -28.04,
+							"y": 214.93
+						},
+						{
+							"time": 0.1,
+							"x": -46.11,
+							"y": 219.36
+						},
+						{
+							"time": 0.2,
+							"x": -76.04,
+							"y": 177.54
+						},
+						{
+							"time": 0.3333,
+							"x": -90.6,
+							"y": 107.34
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.153,
+							"y": 0.153
+						},
+						{
+							"time": 0.1,
+							"x": 0.254,
+							"y": 0.254
+						},
+						{
+							"time": 0.2,
+							"x": 0.268,
+							"y": 0.268
+						}
+					]
+				},
+				"Particle_Coin_Bone_61": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -50
+						},
+						{
+							"time": 0.2,
+							"angle": 29.08
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -16.32,
+							"y": 148.13
+						},
+						{
+							"time": 0.1,
+							"x": -21.78,
+							"y": 130.74
+						},
+						{
+							"time": 0.2,
+							"x": -18.03,
+							"y": 51.97
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.192,
+							"y": 0.192
+						},
+						{
+							"time": 0.1,
+							"x": 0.319,
+							"y": 0.319
+						},
+						{
+							"time": 0.2,
+							"x": 0.336,
+							"y": 0.336
+						}
+					]
+				},
+				"Particle_Coin_Bone_22": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 29.22
+						},
+						{
+							"time": 0.1,
+							"angle": 66.67
+						},
+						{
+							"time": 0.2,
+							"angle": 136.28
+						},
+						{
+							"time": 0.3,
+							"angle": -165.32
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -42.63,
+							"y": 194.66
+						},
+						{
+							"time": 0.1,
+							"x": -69.07,
+							"y": 188.18
+						},
+						{
+							"time": 0.2,
+							"x": -82.39,
+							"y": 140.48
+						},
+						{
+							"time": 0.3,
+							"x": -88.63,
+							"y": 81.72
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.174,
+							"y": 0.174
+						},
+						{
+							"time": 0.1,
+							"x": 0.289,
+							"y": 0.289
+						},
+						{
+							"time": 0.2,
+							"x": 0.304,
+							"y": 0.304
+						}
+					]
+				},
+				"Particle_Coin_Bone_32": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 20.75
+						},
+						{
+							"time": 0.1,
+							"angle": -0.38
+						},
+						{
+							"time": 0.2,
+							"angle": -42.24
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 60.47,
+							"y": 149.18
+						},
+						{
+							"time": 0.1,
+							"x": 74.61,
+							"y": 125.45
+						},
+						{
+							"time": 0.1333,
+							"x": 93.36,
+							"y": 86.95
+						},
+						{
+							"time": 0.2,
+							"x": 99.34,
+							"y": 48.46
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.222,
+							"y": 0.222
+						},
+						{
+							"time": 0.1,
+							"x": 0.368,
+							"y": 0.368
+						},
+						{
+							"time": 0.2,
+							"x": 0.389,
+							"y": 0.389
+						}
+					]
+				},
+				"Particle_Coin_Bone_11": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 25.84
+						},
+						{
+							"time": 0.1,
+							"angle": -28.23
+						},
+						{
+							"time": 0.2,
+							"angle": -74.82
+						},
+						{
+							"time": 0.3333,
+							"angle": 168.31
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 35.6,
+							"y": 246.95
+						},
+						{
+							"time": 0.1,
+							"x": 57.77,
+							"y": 267.75
+						},
+						{
+							"time": 0.2,
+							"x": 89.34,
+							"y": 226.34
+						},
+						{
+							"time": 0.3333,
+							"x": 103.9,
+							"y": 150.42
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.193,
+							"y": 0.193
+						},
+						{
+							"time": 0.1,
+							"x": 0.321,
+							"y": 0.321
+						},
+						{
+							"time": 0.2,
+							"x": 0.337,
+							"y": 0.337
+						}
+					]
+				},
+				"Particle_Coin_Bone_26": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -103.96
+						},
+						{
+							"time": 0.2,
+							"angle": 140.6
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 31.45,
+							"y": 188.27
+						},
+						{
+							"time": 0.1,
+							"x": 51.01,
+							"y": 185.87
+						},
+						{
+							"time": 0.2,
+							"x": 84.37,
+							"y": 74.56
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.242,
+							"y": 0.242
+						},
+						{
+							"time": 0.1,
+							"x": 0.402,
+							"y": 0.402
+						},
+						{
+							"time": 0.2,
+							"x": 0.423,
+							"y": 0.423
+						}
+					]
+				},
+				"Particle_Coin_Bone_42": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 21.84
+						},
+						{
+							"time": 0.1,
+							"angle": -82.66
+						},
+						{
+							"time": 0.2,
+							"angle": -120.13
+						},
+						{
+							"time": 0.3333,
+							"angle": 75.12
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 33.22,
+							"y": 230.94
+						},
+						{
+							"time": 0.1,
+							"x": 57.77,
+							"y": 243.9
+						},
+						{
+							"time": 0.2,
+							"x": 71.3,
+							"y": 197.57
+						},
+						{
+							"time": 0.3333,
+							"x": 82.74,
+							"y": 110.73
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.16,
+							"y": 0.16
+						},
+						{
+							"time": 0.1,
+							"x": 0.266,
+							"y": 0.266
+						},
+						{
+							"time": 0.2,
+							"x": 0.279,
+							"y": 0.279
+						}
+					]
+				},
+				"Particle_Coin_Bone_60": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 11.4
+						},
+						{
+							"time": 0.2667,
+							"angle": 119.57
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -16.39,
+							"y": 179.93
+						},
+						{
+							"time": 0.1,
+							"x": -34.12,
+							"y": 167.99
+						},
+						{
+							"time": 0.2,
+							"x": -58.78,
+							"y": 112.62
+						},
+						{
+							"time": 0.2667,
+							"x": -63.05,
+							"y": 73.85
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.122,
+							"y": 0.122
+						},
+						{
+							"time": 0.1,
+							"x": 0.205,
+							"y": 0.205
+						},
+						{
+							"time": 0.2667,
+							"x": 0.216,
+							"y": 0.216
+						}
+					]
+				},
+				"Particle_Coin_Bone_82": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": 27.21
+						},
+						{
+							"time": 0.2667,
+							"angle": 65.7
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -51.58,
+							"y": 196.95
+						},
+						{
+							"time": 0.0667,
+							"x": -74.42,
+							"y": 191.5
+						},
+						{
+							"time": 0.1667,
+							"x": -98.39,
+							"y": 156.36
+						},
+						{
+							"time": 0.2667,
+							"x": -108.79,
+							"y": 109.04
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.227,
+							"y": 0.227
+						},
+						{
+							"time": 0.0667,
+							"x": 0.377,
+							"y": 0.377
+						},
+						{
+							"time": 0.1667,
+							"x": 0.396,
+							"y": 0.396
+						}
+					]
+				},
+				"Particle_Coin_Bone_83": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.0667,
+							"angle": -29.13
+						},
+						{
+							"time": 0.2,
+							"angle": -107.22
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 15.12,
+							"y": 229.33
+						},
+						{
+							"time": 0.0667,
+							"x": 32.87,
+							"y": 243.54
+						},
+						{
+							"time": 0.1333,
+							"x": 55.2,
+							"y": 253
+						},
+						{
+							"time": 0.2,
+							"x": 74.4,
+							"y": 239.58
+						},
+						{
+							"time": 0.2333,
+							"x": 90.52,
+							"y": 210.46
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.116,
+							"y": 0.116
+						},
+						{
+							"time": 0.0667,
+							"x": 0.195,
+							"y": 0.195
+						},
+						{
+							"time": 0.2,
+							"x": 0.206,
+							"y": 0.206
+						}
+					]
+				},
+				"Particle_Coin_Bone_86": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": -14.82
+						},
+						{
+							"time": 0.2,
+							"angle": -65.11
+						},
+						{
+							"time": 0.3333,
+							"angle": 162.06
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 29.86,
+							"y": 232.51
+						},
+						{
+							"time": 0.1,
+							"x": 48.95,
+							"y": 232.85
+						},
+						{
+							"time": 0.2,
+							"x": 72.32,
+							"y": 186.93
+						},
+						{
+							"time": 0.3333,
+							"x": 88.44,
+							"y": 116.21
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.177,
+							"y": 0.177
+						},
+						{
+							"time": 0.1,
+							"x": 0.296,
+							"y": 0.296
+						},
+						{
+							"time": 0.2,
+							"x": 0.313,
+							"y": 0.313
+						}
+					]
+				},
+				"Particle_Coin_Bone_87": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.1,
+							"angle": 14.18
+						},
+						{
+							"time": 0.2333,
+							"angle": 61.14
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.68,
+							"y": 225.75
+						},
+						{
+							"time": 0.1,
+							"x": -28.19,
+							"y": 240.75
+						},
+						{
+							"time": 0.1333,
+							"x": -53.52,
+							"y": 230.08
+						},
+						{
+							"time": 0.2,
+							"x": -65.02,
+							"y": 206.38
+						},
+						{
+							"time": 0.2333,
+							"x": -69.49,
+							"y": 181.45
+						},
+						{
+							"time": 0.3,
+							"x": -73.13,
+							"y": 155.97
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.18,
+							"y": 0.18
+						},
+						{
+							"time": 0.1,
+							"x": 0.299,
+							"y": 0.299
+						},
+						{
+							"time": 0.2333,
+							"x": 0.315,
+							"y": 0.315
+						}
+					]
+				},
+				"Particle_Coin_Bone_88": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 25.84
+						},
+						{
+							"time": 0.1,
+							"angle": -28.23
+						},
+						{
+							"time": 0.2,
+							"angle": -74.82
+						},
+						{
+							"time": 0.3333,
+							"angle": 168.31
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 35.6,
+							"y": 246.95
+						},
+						{
+							"time": 0.1,
+							"x": 57.77,
+							"y": 267.75
+						},
+						{
+							"time": 0.2,
+							"x": 89.34,
+							"y": 226.34
+						},
+						{
+							"time": 0.3333,
+							"x": 103.9,
+							"y": 150.42
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.193,
+							"y": 0.193
+						},
+						{
+							"time": 0.1,
+							"x": 0.321,
+							"y": 0.321
+						},
+						{
+							"time": 0.2,
+							"x": 0.337,
+							"y": 0.337
+						}
+					]
+				},
+				"Particle_Coin_Bone_98": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -15.67
+						},
+						{
+							"time": 0.1,
+							"angle": -98.21
+						},
+						{
+							"time": 0.2,
+							"angle": -63.17
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 15.67,
+							"y": 143.91
+						},
+						{
+							"time": 0.1,
+							"x": 21.46,
+							"y": 125.83
+						},
+						{
+							"time": 0.2,
+							"x": 27.75,
+							"y": 55.87
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.197,
+							"y": 0.197
+						},
+						{
+							"time": 0.1,
+							"x": 0.328,
+							"y": 0.328
+						},
+						{
+							"time": 0.2,
+							"x": 0.344,
+							"y": 0.344
+						}
+					]
+				},
+				"Particle_Coin_Bone_99": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 29.22
+						},
+						{
+							"time": 0.1,
+							"angle": 66.67
+						},
+						{
+							"time": 0.2,
+							"angle": 136.28
+						},
+						{
+							"time": 0.3,
+							"angle": -165.32
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -42.63,
+							"y": 194.66
+						},
+						{
+							"time": 0.1,
+							"x": -69.07,
+							"y": 188.18
+						},
+						{
+							"time": 0.2,
+							"x": -82.39,
+							"y": 140.48
+						},
+						{
+							"time": 0.3,
+							"x": -88.63,
+							"y": 81.72
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.174,
+							"y": 0.174
+						},
+						{
+							"time": 0.1,
+							"x": 0.289,
+							"y": 0.289
+						},
+						{
+							"time": 0.2,
+							"x": 0.304,
+							"y": 0.304
+						}
+					]
+				},
+				"Highlight_bone": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.613,
+							"y": 0.613,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.9,
+							"y": 0.9,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0.7,
+							"y": 0.7,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 0.9,
+							"y": 0.9,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0.7,
+							"y": 0.7
+						}
+					]
+				},
+				"x_bone": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.1667,
+							"x": 1.1,
+							"y": 1.1
+						},
+						{
+							"time": 0.2667,
+							"x": 0.9,
+							"y": 0.9
+						},
+						{
+							"time": 0.4,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"2_bone": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.0667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2333,
+							"x": 1.1,
+							"y": 1.1
+						},
+						{
+							"time": 0.3333,
+							"x": 0.9,
+							"y": 0.9
+						},
+						{
+							"time": 0.4667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				}
+			}
+		}
+	}
+}

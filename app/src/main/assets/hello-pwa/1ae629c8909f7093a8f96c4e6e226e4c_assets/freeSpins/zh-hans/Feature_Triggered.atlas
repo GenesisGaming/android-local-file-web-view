@@ -1,0 +1,55 @@
+
+Feature_Triggered.png
+size: 422,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RedFont/02_!
+  rotate: false
+  xy: 381, 54
+  size: 41, 92
+  orig: 128, 128
+  offset: 47, 20
+  index: -1
+sc/chu
+  rotate: false
+  xy: 157, 170
+  size: 137, 159
+  orig: 137, 159
+  offset: 0, 0
+  index: -1
+sc/fa
+  rotate: false
+  xy: 137, 8
+  size: 125, 160
+  orig: 125, 160
+  offset: 0, 0
+  index: -1
+sc/fe
+  rotate: false
+  xy: 296, 148
+  size: 107, 181
+  orig: 107, 181
+  offset: 0, 0
+  index: -1
+sc/mian
+  rotate: false
+  xy: 264, 0
+  size: 115, 146
+  orig: 115, 146
+  offset: 0, 0
+  index: -1
+sc/xi
+  rotate: false
+  xy: 0, 5
+  size: 135, 163
+  orig: 135, 163
+  offset: 0, 0
+  index: -1
+sc/yu
+  rotate: false
+  xy: 0, 170
+  size: 155, 159
+  orig: 155, 159
+  offset: 0, 0
+  index: -1

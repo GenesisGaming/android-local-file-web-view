@@ -1,0 +1,48 @@
+
+RevealCoins.png
+size: 158,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Coin_01
+  rotate: false
+  xy: 2, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_02
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_03
+  rotate: false
+  xy: 54, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_04
+  rotate: false
+  xy: 106, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_05
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Particle_Coin_06
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

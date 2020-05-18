@@ -9,36 +9,44 @@
         android:id="@+id/game_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/url_input"
-        app:layout_constraintTop_toBottomOf="@id/url_input"></WebView>
+        app:layout_constraintStart_toEndOf="@id/url_bar"
+        app:layout_constraintTop_toBottomOf="@+id/url_bar">
 
-    <Button
-        android:id="@+id/launch"
-        android:layout_width="wrap_content"
-        android:layout_height="40dp"
-        android:text="Load"
-        android:onClick="load"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+    </WebView>
+
+    <LinearLayout
+        android:id="@+id/url_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/url_input"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="0.8"
+            android:background="@color/cardview_light_background"
+            android:imeOptions="actionGo"
+            android:inputType="textUri"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="@android:color/black"
+            tools:ignore="LabelFor" />
+
+        <Button
+            android:id="@+id/launch"
+            android:layout_marginTop="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="0.2"
+            android:text="Load" />
+    </LinearLayout>
 
     <!--https://www.reddit.com/r/gamedev/comments/9y9bbf/html5_javascript_canvas_games_on_android_anyone/-->
     <!--file:///mnt/sdcard/local_web_client/test/snake.html-->
-    <EditText
-        android:id="@+id/url_input"
-        android:layout_width="match_parent"
-        android:layout_height="20dp"
-        android:imeOptions="actionGo"
-        android:singleLine="true"
-        android:background="@color/cardview_light_background"
-        android:text="file:///android_asset/snake.html"
-        android:textColor="@android:color/black"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toStartOf="@id/launch"
-        app:layout_constraintTop_toTopOf="parent"
-        android:autofillHints=""
-        android:inputType="textUri"
-        tools:ignore="LabelFor" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

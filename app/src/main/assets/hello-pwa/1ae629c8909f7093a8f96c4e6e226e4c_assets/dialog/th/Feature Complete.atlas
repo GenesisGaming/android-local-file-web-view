@@ -1,0 +1,153 @@
+
+Feature Complete.png
+size: 965,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GreenFont/37_Y
+  rotate: false
+  xy: 817, 94
+  size: 34, 52
+  orig: 64, 64
+  offset: 17, 4
+  index: -1
+GreenFont/39_W
+  rotate: false
+  xy: 777, 148
+  size: 44, 47
+  orig: 64, 64
+  offset: 11, 9
+  index: -1
+GreenFont/40_V
+  rotate: false
+  xy: 809, 45
+  size: 35, 47
+  orig: 64, 64
+  offset: 16, 9
+  index: -1
+GreenFont/41_U
+  rotate: false
+  xy: 905, 149
+  size: 37, 46
+  orig: 64, 64
+  offset: 15, 10
+  index: -1
+GreenFont/46_O
+  rotate: false
+  xy: 846, 46
+  size: 36, 46
+  orig: 64, 64
+  offset: 15, 10
+  index: -1
+GreenFont/47_N
+  rotate: false
+  xy: 733, 94
+  size: 42, 48
+  orig: 64, 64
+  offset: 12, 8
+  index: -1
+GreenFont/56_E
+  rotate: false
+  xy: 884, 48
+  size: 35, 46
+  orig: 64, 64
+  offset: 16, 10
+  index: -1
+GreenFont/86_‘
+  rotate: false
+  xy: 733, 18
+  size: 19, 24
+  orig: 64, 64
+  offset: 24, 32
+  index: -1
+Msg_Panel_Zone
+  rotate: false
+  xy: 0, 6
+  size: 731, 189
+  orig: 731, 189
+  offset: 0, 0
+  index: -1
+RedFont/02_!
+  rotate: false
+  xy: 944, 149
+  size: 21, 46
+  orig: 64, 64
+  offset: 23, 10
+  index: -1
+RedFont/34_CapitalA
+  rotate: false
+  xy: 777, 96
+  size: 38, 50
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+RedFont/36_CapitalC
+  rotate: false
+  xy: 864, 150
+  size: 39, 45
+  orig: 64, 64
+  offset: 13, 11
+  index: -1
+RedFont/38_CapitalE
+  rotate: false
+  xy: 921, 50
+  size: 35, 46
+  orig: 64, 64
+  offset: 16, 10
+  index: -1
+RedFont/39_CapitalF
+  rotate: false
+  xy: 853, 96
+  size: 34, 51
+  orig: 64, 64
+  offset: 17, 6
+  index: -1
+RedFont/45_CapitalL
+  rotate: false
+  xy: 775, 44
+  size: 32, 48
+  orig: 64, 64
+  offset: 17, 9
+  index: -1
+RedFont/46_CapitalM
+  rotate: false
+  xy: 733, 144
+  size: 42, 51
+  orig: 64, 64
+  offset: 12, 6
+  index: -1
+RedFont/48_CapitalO
+  rotate: false
+  xy: 884, 0
+  size: 36, 46
+  orig: 64, 64
+  offset: 15, 10
+  index: -1
+RedFont/49_CapitalP
+  rotate: false
+  xy: 733, 44
+  size: 40, 48
+  orig: 64, 64
+  offset: 12, 8
+  index: -1
+RedFont/50_CapitalR
+  rotate: false
+  xy: 823, 149
+  size: 39, 46
+  orig: 64, 64
+  offset: 14, 11
+  index: -1
+RedFont/52_CapitalT
+  rotate: false
+  xy: 889, 98
+  size: 34, 49
+  orig: 64, 64
+  offset: 16, 8
+  index: -1
+RedFont/53_CapitalU
+  rotate: false
+  xy: 925, 101
+  size: 37, 46
+  orig: 64, 64
+  offset: 15, 10
+  index: -1
