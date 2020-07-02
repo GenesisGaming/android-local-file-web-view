@@ -9,8 +9,6 @@
         android:id="@+id/game_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="50dp"
-        android:layout_marginBottom="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/url_bar"
@@ -24,6 +22,15 @@
         android:layout_height="match_parent"
         android:orientation="horizontal">
 
+        <ImageButton
+            android:id="@+id/asset_dahongbaogold"
+            android:layout_marginTop="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:src="@mipmap/ic_home"
+            android:background="@null"/>
+
         <EditText
             android:id="@+id/url_input"
             android:layout_width="0dp"
@@ -35,15 +42,17 @@
             android:singleLine="true"
             android:text=""
             android:textColor="@android:color/black"
-            tools:ignore="LabelFor" />
+            tools:ignore="LabelFor"
+            android:visibility="invisible"/>
 
-        <Button
-            android:id="@+id/launch"
+        <ImageButton
+            android:id="@+id/sdcard_dahongbaogold"
             android:layout_marginTop="0dp"
             android:layout_width="wrap_content"
-            android:layout_height="40dp"
-            android:layout_weight="0.2"
-            android:text="Load" />
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:src="@mipmap/ic_sdcard"
+            android:background="@null"/>
     </LinearLayout>
 
     <!--https://www.reddit.com/r/gamedev/comments/9y9bbf/html5_javascript_canvas_games_on_android_anyone/-->

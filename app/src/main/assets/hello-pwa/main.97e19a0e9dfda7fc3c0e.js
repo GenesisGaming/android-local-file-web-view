@@ -9556,7 +9556,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var NGServerConfig = /** @class */ (function () {
     function NGServerConfig() {
         this.game = 'GameName';
-        this.connectionURL = '3655oule.com';
+        this.connectionURL = 'star9ad.com';
         this.historyApiDomain = '{partner_token}-rgs-history.{domain}';
         this.useWebSocket = true;
         // tslint:disable-next-line:max-line-length
